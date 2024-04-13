@@ -3,7 +3,7 @@
       <div class="flex items-center justify-between">
         <img src="../assets/images/arrow-narrow-left.png" />
         <Input class="w-80 mx-2" placeholder="Show Name" />
-        <Button class="w-16">Save</Button>
+        <Button class="!w-16">Save</Button>
       </div>
   
       <div class="flex items-center justify-between whitespace-nowrap mt-5">
