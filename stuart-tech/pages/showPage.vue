@@ -9,7 +9,7 @@
       <div class="flex items-center justify-between whitespace-nowrap mt-5">
         <h1 class="text-white text-2xl font-semibold">12:15 pm</h1>
         <h1 class="text-white text-4xl font-bold">00:00:00</h1>
-        <Button class="w-16">Start</Button>
+        <Button class="!w-16">Start</Button>
       </div>
   
       <textarea class="flex-1 bg-white border border-gray-300 rounded-2xl shadow-md p-4 resize-none my-6 font-bold ">
