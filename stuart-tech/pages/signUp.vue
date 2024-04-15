@@ -13,8 +13,8 @@
         <Button class="mt-8">
             Sign up
         </Button>
-        <nuxt-link class="text-sm text-slate-200 mt-4">Forget your password?</nuxt-link>
-        <nuxt-link class="text-sm text-slate-200 mt-3">Login</nuxt-link>
+        <nuxt-link class="text-sm text-slate-200 mt-4" to="#" >Forget your password?</nuxt-link>
+        <nuxt-link class="text-sm text-slate-200 mt-3" to="login">Login</nuxt-link>
     </div>
 </template>
 

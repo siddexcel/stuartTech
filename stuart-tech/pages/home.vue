@@ -51,11 +51,11 @@
                     <h2 class="text-white ml-3">3/20/24 - Tithe Message</h2>
                     <img class="ml-auto" src="../assets/images/trash.png" />
                 </div>
-            </div>
-            <div class="flex  mb-6">
+                <div class="flex  mb-6">
                     <h2 class="text-white ml-3">3/20/24 - Tithe Message</h2>
                     <img class="ml-auto" src="../assets/images/trash.png" />
                 </div>
+            </div>
         </div>
     </div>
 </template>

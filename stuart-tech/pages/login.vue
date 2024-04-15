@@ -9,7 +9,7 @@
             Log In
         </Button>
         <nuxt-link class="text-sm text-slate-200 mt-4">Forget your password?</nuxt-link>
-        <nuxt-link class="text-sm text-slate-200 mt-3">Sign Up</nuxt-link>
+        <nuxt-link class="text-sm text-slate-200 mt-3" to="/signUp" >Sign Up</nuxt-link>
     </div>
 </template>
 
